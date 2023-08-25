@@ -2,7 +2,15 @@
   <img src="./imgs/recipeforregexsmall.png" />
 </p>
 
-Regular expressions at first glance are 
+<p align="center">
+<h1 align="center">INTRODUCTION</h1>
+Regular expressions at first glance look super infurtiating and diffuclt! Thought that may be the case (lol) it is something that we will be traversing throughout this tutorial to try and explain the functionality and how helpful REGEX can be when using them!
+</p>
+
+<p align="center">
+  <img src="./imgs/schoolofrock.gif" />
+</p>
+
 
 ## Summary of
 
